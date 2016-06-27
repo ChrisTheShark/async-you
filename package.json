@@ -1,0 +1,23 @@
+{
+  "name": "async-you",
+  "version": "0.0.1",
+  "description": "Async exercises from nodeschool.io.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "async",
+    "nodeschool"
+  ],
+  "author": "Chris Dyer",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.6"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "sinon": "^1.17.4"
+  }
+}
